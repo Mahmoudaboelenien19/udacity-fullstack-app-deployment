@@ -14,9 +14,9 @@
 - clone the project 
 - run `npm run api:install` to  install depenencies of Backend
 - create postgres database
-- run npm run `frontend:install` to install depenencies of frontend
+- run `npm run frontend:install` to install depenencies of frontend
 - run `npm run api:start` to  start depenencies of Backend
-- run npm run `frontend:start` to start depenencies of frontend
+- run `npm run frontend:start` to start depenencies of frontend
 - create your own .env
 
 
